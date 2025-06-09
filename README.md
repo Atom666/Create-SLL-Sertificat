@@ -15,11 +15,11 @@
 
 # Редачим apache
 - **sudo nano /etc/apache2/sites–available/default–ssl.conf**
-[image](https://github.com/user-attachments/assets/721933d2-59ef-4109-90d8-0b7b1e406a62)
+![image](https://github.com/user-attachments/assets/721933d2-59ef-4109-90d8-0b7b1e406a62)
 ![image](https://github.com/user-attachments/assets/fef97ca3-70b8-40a0-ba58-65c3faed541a)
 - **sudo nano /etc/apache2/sites–available/000–default.conf**
 ![image](https://github.com/user-attachments/assets/4acd7d83-0db4-454b-94a1-e9e751c80dcb)
-sudo nano /etc/nginx/sites-enabled/default
+- **sudo nano /etc/nginx/sites-enabled/default**
 ![image](https://github.com/user-attachments/assets/ce03b0e2-4b90-463f-a416-a474724dcbe1)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/01f2554a-b53f-4bbf-8be3-a150dae84cf5)
 - **service apache2 nginx restart**
