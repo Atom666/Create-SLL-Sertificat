@@ -15,7 +15,7 @@
 
 # Редачим apache
 - **sudo nano /etc/apache2/sites–available/default–ssl.conf**
-![image](https://github.com/user-attachments/assets/721933d2-59ef-4109-90d8-0b7b1e406a62)
+[image](https://github.com/user-attachments/assets/721933d2-59ef-4109-90d8-0b7b1e406a62)
 ![image](https://github.com/user-attachments/assets/fef97ca3-70b8-40a0-ba58-65c3faed541a)
 - **sudo nano /etc/apache2/sites–available/000–default.conf**
 ![image](https://github.com/user-attachments/assets/4acd7d83-0db4-454b-94a1-e9e751c80dcb)
